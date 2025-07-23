@@ -30,18 +30,26 @@
 
 ## Sample Input Fields
 -Gender
+
 -Department
+
 -Country
+
 -Center
+
 -Years of Experience
+
 -Job Rate
 
 The app encodes these fields and predicts a fair annual salary based on trained ML models.
 
 ## Future Scope
 -Deploy on Streamlit Cloud with a permanent URL
+
 -Integrate database for live employee records
+
 -Add authentication for internal HR use
+
 -Explore neural network models for improved accuracy
 
 
